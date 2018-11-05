@@ -1,4 +1,4 @@
-# キューの演習
+ キューの演習
 
 # 進め方
 ## はじめてのとき
@@ -16,7 +16,7 @@
 
 # テスト結果
 
-[![Build Status](https://travis-ci.org/t-kougei-game-comp-2018/06_queue.svg?branch=master)](https://travis-ci.org/t-kougei-game-comp-2018/06_queue)
+[![Build Status](https://travis-ci.org/mochizukidaiki/06_queue.svg?branch=master)](https://travis-ci.org/mochizukidaiki/06_queue)
 
 # 今回の問題
 
